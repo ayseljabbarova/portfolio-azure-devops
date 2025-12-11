@@ -29,7 +29,7 @@ It is one of the first practical labs in my Azure & DevOps learning journey.
 ## 📌 Steps I Completed
 
 ### **1️⃣ Created a Resource Group**
-- Name example: `RG-Network-Lab`
+- Name: `RG-Network-Lab`
 - Region: UK South 
 
 ---
