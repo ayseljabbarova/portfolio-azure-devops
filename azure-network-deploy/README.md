@@ -10,7 +10,7 @@ It is one of the first practical labs in my Azure & DevOps learning journey.
 - Deploy a Virtual Network and subnets  
 - Create and attach a Network Security Group  
 - Deploy a Windows or Linux Virtual Machine  
-- Configure secure access (RDP/SSH)  
+- Configure secure access (SSH)  
 - Enable basic monitoring using Azure Monitor  
 
 ---
@@ -80,6 +80,4 @@ It is one of the first practical labs in my Azure & DevOps learning journey.
 
 ---
 
-## 📅 Status
-✔️ In progress  
-📁 Files and screenshots will be added soon
+
