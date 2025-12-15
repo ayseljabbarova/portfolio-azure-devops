@@ -29,8 +29,8 @@ It is one of the first practical labs in my Azure & DevOps learning journey.
 ## 📌 Steps I Completed
 
 ### **1️⃣ Created a Resource Group**
-- Name: `RG-Network-Lab`
-- Region: UK South 
+- Name: `Rg_network_lab`
+- Region: Central US 
 
 ---
 
@@ -49,14 +49,14 @@ It is one of the first practical labs in my Azure & DevOps learning journey.
 ### **4️⃣ Created Network Security Group (NSG)**
 - Name: `NSG-Lab`
 - Allowed inbound:
-  - SSH (22) **or** RDP (3389)
+  - SSH (22) 
 - Denied all other inbound traffic
 
 ---
 
 ### **5️⃣ Deployed a Virtual Machine**
-- OS: (Windows/Linux)
-- Size: B1s or similar
+- OS: (Linux)
+- Size: Standard D2s v3
 - Placed inside FrontEnd subnet
 - Attached NSG  
 - Configured admin username + password/SSH key
